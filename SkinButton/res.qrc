@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>timeout.bmp</file>
+        <file>timein.bmp</file>
+        <file>stop.bmp</file>
+        <file>play.bmp</file>
+    </qresource>
+</RCC>
